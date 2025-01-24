@@ -6,7 +6,7 @@ require (
 	github.com/google/go-querystring v1.1.0
 	github.com/google/jsonapi v1.0.0
 	github.com/hashicorp/go-cleanhttp v0.5.2
-	github.com/mitchellh/mapstructure v1.4.3
+	github.com/mitchellh/mapstructure v1.5.0
 	github.com/peterhellberg/link v1.1.0
 	github.com/stretchr/testify v1.10.0
 	golang.org/x/crypto v0.31.0
